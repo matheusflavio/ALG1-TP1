@@ -18,3 +18,9 @@ all: $(OBJ)
 
 clean:
 	@rm -rf $(OBJ_FOLDER)* $(TARGET)
+
+commit:
+	git add .
+	@echo "Please write yout commit message: "; read MESSAGE
+	git commit -m "@@MESSAGE"
+	git push
