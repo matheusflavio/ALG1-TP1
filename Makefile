@@ -21,6 +21,7 @@ clean:
 
 commit:
 	git add .
-	@echo "Please write yout commit message: "; read MESSAGE
-	git commit -m "@@MESSAGE"
+	@echo "your commit text: "; \
+    read AGE ;\
+	git commit -m "$$AGE"
 	git push
