@@ -26,7 +26,7 @@ diff <(./tp01 < input/input.txt) output/input-out.txt
 diff <(./tp01 < input/in.txt) output/in-out.txt
 ```
 Note that 'input-out.txt' and 'in-out.txt' are the correct and expected outputs for each test instance located at './input/' folder.
-By using the 'diff' command, the terminal give an output showing tghe differences between the program execution outputs and the output expectation. Since, at least for these test cases, the program is 100% right, the output of theses comparations are empty since there's no difference.
+By using the 'diff' command, the terminal give an output showing the differences between the program execution outputs and the output expectation. Since, at least for these test cases, the program is 100% right, the output of theses comparations are empty since there's no difference.
 
 ## Cleaning .o files and the Executable
 Just run on the terminal:
