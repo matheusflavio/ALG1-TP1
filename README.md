@@ -3,7 +3,7 @@ Repository to save my ALG1-TP1 Implementation.
 This implementation passes on 100% of the test and additional-test cases given.
 
 ## Compiling and Running the Program
-First of all, build the tp01 executable. To do that, simply open a terminal and run the command:
+First of all, build the tp01 executable. To do that, simply open a terminal inside the project root folder and run the command:
 ```
 make
 ```
