@@ -1,6 +1,7 @@
 # ALG1-TP1
 Repository to save my ALG1-TP1 Implementation.
 This implementation passes on 100% of the test and additional-test cases given.
+Get 100% note, but with 12.5% decrease due to delivery delay.
 
 ## Compiling and Running the Program
 First of all, clone this repo into a folder of your preference inside your machine by openinng a terminal inside that folder and than enter the project folder by running these commands:
